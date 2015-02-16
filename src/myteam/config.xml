@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Team>
+	<Name>MyTeam</Name>
+	<IconPath>logo.png</IconPath>
+	<Description>My super team !</Description>
+	<AgentsBrainControllers>
+		<WarExplorer>WarExplorerBrain.class</WarExplorer>
+		<WarRocketLauncher>WarRocketLauncherBrain.class</WarRocketLauncher>
+		<WarBase>WarBaseBrain.class</WarBase>
+		<WarKamikaze>WarKamikazeBrain.class</WarKamikaze>
+		<WarEngineer>WarEngineerBrain.class</WarEngineer>
+		<WarTurret>WarTurretBrain.class</WarTurret>
+	</AgentsBrainControllers>
+</Team>
